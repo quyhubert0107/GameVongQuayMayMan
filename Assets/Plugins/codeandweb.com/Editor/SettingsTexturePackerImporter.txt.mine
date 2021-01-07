@@ -1,0 +1,27 @@
+version: 2
+importPivots: 1
+tpsheetFileNames:
+- Assets/Slot/Resource/Common/TextureAtlas/commonUI.tpsheet
+- Assets/Slot/Resource/gamemini/Sprite/UiGameMini0.tpsheet
+- Assets/Slot/Resource/gamemini/Sprite/UiGameMini1.tpsheet
+- Assets/Slot/Resource/GameMini/TextureAtlas/GameMiniUI.tpsheet
+- Assets/Slot/Resource/Lobby/TextureAtlas/lobbyUI.tpsheet
+- Assets/Slot/Resource/SlotBongDa/TexureAtlas/MainUI.tpsheet
+- Assets/Slot/Resource/SlotFairyFish/TextureAtlas/MainUI.tpsheet
+textureFileNames:
+- Assets/Slot/Resource/Common/TextureAtlas/commonUI.png
+- Assets/Slot/Resource/gamemini/Sprite/UiGameMini0.png
+- Assets/Slot/Resource/gamemini/Sprite/UiGameMini1.png
+- Assets/Slot/Resource/GameMini/TextureAtlas/GameMiniUI.png
+- Assets/Slot/Resource/Lobby/TextureAtlas/lobbyUI.png
+- Assets/Slot/Resource/SlotBongDa/TexureAtlas/MainUI.png
+- Assets/Slot/Resource/SlotFairyFish/TextureAtlas/MainUI.png
+normalmapFileNames:
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+enableDebugOutput: 0

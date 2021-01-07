@@ -1,0 +1,12 @@
+version: 2
+importPivots: 1
+tpsheetFileNames:
+- Assets/Slot/Resource/gamemini/Sprite/UiGameMini0.tpsheet
+- Assets/Slot/Resource/gamemini/Sprite/UiGameMini1.tpsheet
+textureFileNames:
+- Assets/Slot/Resource/gamemini/Sprite/UiGameMini0.png
+- Assets/Slot/Resource/gamemini/Sprite/UiGameMini1.png
+normalmapFileNames:
+- 
+- 
+enableDebugOutput: 0

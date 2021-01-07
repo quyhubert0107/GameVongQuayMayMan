@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id" xmlns:tools="http://schemas.android.com/tools">
+  <string name="firebase_database_url" translatable="false">https://game-vb88.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">66513872556</string>
+  <string name="google_storage_bucket" translatable="false">game-vb88.appspot.com</string>
+  <string name="project_id" translatable="false">game-vb88</string>
+  <string name="google_api_key" translatable="false">AIzaSyB6JIukfTgJ86eTxB0b6XkIPlYPNmf4wos</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB6JIukfTgJ86eTxB0b6XkIPlYPNmf4wos</string>
+  <string name="google_app_id" translatable="false">1:66513872556:android:0f44a4f3c1230f42a4a109</string>
+  <string name="default_web_client_id" translatable="false">66513872556-o5375s8ce0lb0htcsh18a5gfafc34alt.apps.googleusercontent.com</string>
+</resources>

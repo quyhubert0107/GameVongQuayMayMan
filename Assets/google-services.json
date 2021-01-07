@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "66513872556",
+    "firebase_url": "https://game-vb88.firebaseio.com",
+    "project_id": "game-vb88",
+    "storage_bucket": "game-vb88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66513872556:android:0f44a4f3c1230f42a4a109",
+        "android_client_info": {
+          "package_name": "com.vb88.victory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66513872556-o5375s8ce0lb0htcsh18a5gfafc34alt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6JIukfTgJ86eTxB0b6XkIPlYPNmf4wos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "66513872556-o5375s8ce0lb0htcsh18a5gfafc34alt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
